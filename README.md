@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on mobile application development projects, focusing on clean code and good software design practices.<br><br>👯 I’m looking to collaborate on mobile apps, academic projects, and open-source initiatives.<br><br>🤝 I’m looking for help with improving app architecture, performance optimization, and best practices in mobile development.<br><br>🌱 I’m currently learning advanced software engineering concepts, data structures, and mobile development with Flutter and Kotlin.<br><br>💬 Ask me about Java, C, Kotlin, Flutter, object-oriented programming, and academic programming projects.<br><br>⚡ Fun fact: I enjoy turning academic assignments into fully functional applications.
+# Sobre Mim
+
+• Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software e aplicações mobile.
+
+• Atualmente desenvolvo projetos utilizando Flutter, Kotlin, Java e C, buscando aplicar boas práticas de programação, código limpo e princípios de orientação a objetos.
+
+• Tenho interesse em desenvolvimento mobile, engenharia de software, arquitetura de aplicações e desenvolvimento de soluções eficientes e bem estruturadas.
+
+• Atualmente estou aprimorando meus conhecimentos em Flutter, Kotlin, estruturas de dados, algoritmos, arquitetura de software e boas práticas de desenvolvimento.
+
+• Busco oportunidades para colaborar em projetos acadêmicos, aplicações mobile, projetos open source e iniciativas relacionadas à tecnologia.
+
+• Conhecimentos em Java, Kotlin, C, Flutter, SQL, Programação Orientada a Objetos e desenvolvimento de aplicações.
+
+• Gosto de transformar ideias e projetos acadêmicos em aplicações funcionais, utilizando-os como forma de desenvolver continuamente minhas habilidades técnicas e profissionais.
+
 
 
 ## 🌐 Socials:
